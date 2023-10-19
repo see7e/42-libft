@@ -20,7 +20,7 @@ unsigned int	ft_strlcpy(char *dest, const char *src, unsigned int size)
 	idx = 0;
 	len = 0;
 	if (!dest && !src)
-		abort();
+		return (0);
 	while (src[len])
 		len++;
 	if (size > 0)
