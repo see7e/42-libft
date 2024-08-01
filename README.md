@@ -2,7 +2,7 @@
 title: Libft
 tags:
   - "42"
-  - programação
+  - programming
   - common_core
 use: README, Documentation
 languages: C

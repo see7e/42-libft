@@ -4,7 +4,7 @@ aliases:
   - Custom Framework
 tags:
   - "42"
-  - programação
+  - programming
   - common_core
 use: Documentation
 languages: C
