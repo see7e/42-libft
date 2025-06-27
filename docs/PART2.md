@@ -28,7 +28,7 @@ dependences:
 
 ---
 
-# Part 2 #to_review
+# Part 2
 
 ## [ft_substr](../libft/ft_substr.c)
 

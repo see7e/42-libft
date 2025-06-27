@@ -9,7 +9,6 @@ languages: C
 dependences:
 ---
 
-#to_review
 
 <p align="center">
   <picture>
@@ -76,7 +75,7 @@ I'll divide the code explanations in each Part's folder, to reduce the amount of
 | ft_strnstr                        | ✔️  |                                   |     |                                  |     |
 | ft_atoi                           | ✔️  |                                   |     |                                  |     |
 
-### Helpers Functions #to_review
+### Helpers Functions
 
 Are defined inside the "main" functions, maybe I'll add to the `libft.h` file as independent functions.
 
@@ -90,7 +89,7 @@ Are defined inside the "main" functions, maybe I'll add to the `libft.h` file as
 - Inside of `ft_itoa`
   - `static void ft_strrev (char *str)`, reverses the characters in a given string `str` in-place. It calculates the length of the string, then uses two pointers (`start` and `end`) to swap characters from the beginning and end of the string, moving towards the center of the string until they meet. This effectively reverses the order of characters in the `str` variable.
 
-### Makefile #to_review
+### Makefile
 
 Used for building a static library named `libft.a` from the collection of C source files. This file can be divided into a few parts as shown below:
 

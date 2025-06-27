@@ -40,7 +40,7 @@ dependences:
 
 ---
 
-# Part 1 #to_review
+# Part 1
 
 ## [ft_isalpha](./ft_isalpha.c)
 
